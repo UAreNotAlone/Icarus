@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{C0A0B5E1-0EB9-4930-B0A2-82B03A44A4A5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Icarus", "Icarus\Icarus.vcxproj", "{36DC4624-C8D0-41DB-B8E4-5E8A0D7D7249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36DC4624-C8D0-41DB-B8E4-5E8A0D7D7249}.Debug|x64.ActiveCfg = Debug|x64
+		{36DC4624-C8D0-41DB-B8E4-5E8A0D7D7249}.Debug|x64.Build.0 = Debug|x64
+		{36DC4624-C8D0-41DB-B8E4-5E8A0D7D7249}.Release|x64.ActiveCfg = Release|x64
+		{36DC4624-C8D0-41DB-B8E4-5E8A0D7D7249}.Release|x64.Build.0 = Release|x64
+		{C0A0B5E1-0EB9-4930-B0A2-82B03A44A4A5}.Debug|x64.ActiveCfg = Debug|x64
+		{C0A0B5E1-0EB9-4930-B0A2-82B03A44A4A5}.Debug|x64.Build.0 = Debug|x64
+		{C0A0B5E1-0EB9-4930-B0A2-82B03A44A4A5}.Release|x64.ActiveCfg = Release|x64
+		{C0A0B5E1-0EB9-4930-B0A2-82B03A44A4A5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02FCBA56-4D3C-4296-B40E-F9514FAFD816}
+	EndGlobalSection
+EndGlobal
